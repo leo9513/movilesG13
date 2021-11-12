@@ -10,4 +10,6 @@
     <string name="text_action_search">Buscar</string>
     <string name="text_action_settings">Configuración</string>
     <string name="text_action_logout">Cerrar sesión</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="prueba_git">logout</string>
 </resources>
