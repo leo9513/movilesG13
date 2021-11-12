@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.interoperability">
+    package="com.example.interoperability" >
 
     <application
         android:allowBackup="true"
@@ -8,18 +8,23 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Interoperability">
+        android:theme="@style/Theme.Interoperability" >
+        <activity
+            android:name=".DrawerAcrivity"
+            android:exported="false"
+            android:label="@string/title_activity_drawer_acrivity"
+            android:theme="@style/Theme.Interoperability.NoActionBar" />
         <activity
             android:name=".TodoActivity"
             android:exported="false" />
         <activity
-            android:theme="@style/Theme.Interoperability2"
             android:name=".WelcomeActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/Theme.Interoperability2" />
         <activity
-            android:theme="@style/Theme.Interoperability2"
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:theme="@style/Theme.Interoperability2" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

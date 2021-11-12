@@ -38,8 +38,12 @@ class MainActivity : AppCompatActivity() {
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when(item.itemId){
             R.id.action_search -> {
-                Toast.makeText(this, R.string.text_action_search, Toast.LENGTH_LONG).show()
+                /*Toast.makeText(this, R.string.text_action_search, Toast.LENGTH_LONG).show()
+                */
+                val intento = Intent(this,DrawerAcrivity::class.java)
+                startActivity(intento)
                 return true
+
             }
             R.id.action_settings -> {
                 Toast.makeText(this, R.string.text_action_settings, Toast.LENGTH_LONG).show()

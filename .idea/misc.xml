@@ -6,12 +6,22 @@
         <entry key="..\:/Users/leoda/AndroidStudioProjects/Interoperability/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/leoda/AndroidStudioProjects/Interoperability/app/src/main/res/layout/activity_welcome.xml" value="0.176" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_drawer_acrivity.xml" value="0.264" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_to_do.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.4" />
+        <entry key="app/src/main/res/layout/app_bar_drawer_acrivity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_drawer_acrivity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_about.xml" value="0.1734375" />
         <entry key="app/src/main/res/layout/fragment_detail.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_sales.xml" value="0.32916666666666666" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_todo.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/nav_header_drawer_acrivity.xml" value="0.4" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.264" />
+        <entry key="app/src/main/res/menu/drawer_acrivity.xml" value="0.264" />
         <entry key="app/src/main/res/menu/menu_main_activity.xml" value="0.4" />
       </map>
     </option>

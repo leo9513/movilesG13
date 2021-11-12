@@ -33,6 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:text="Numero 1"
+        android:textColor="@color/black"
         android:textSize="24sp" />
 
     <EditText
@@ -47,6 +48,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:text="Numero 2"
+        android:textColor="@color/black"
         android:textSize="24sp" />
 
     <EditText
@@ -77,6 +79,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:text="Solución:"
+        android:textColor="@color/black"
         android:textSize="24sp" />
 
     <EditText
