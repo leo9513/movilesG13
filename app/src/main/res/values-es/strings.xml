@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Interoperable</string>
+    <string name="text_welcome">Bienvenido</string>
+    <string name="text_introduction">Introducccion</string>
+    <string name="text_lorem">It is a long established fact that a reader will be distracted
+        by the readable content of a page when looking at its layout.
+        </string>
+    <string name="text_error">ERROR</string>
+    <string name="text_error_text">Usuario o COntraseña Incorrectos</string>
+    <string name="text_action_search">Buscar</string>
+    <string name="text_action_settings">Configuración</string>
+    <string name="text_action_logout">Cerrar sesión</string>
+</resources>

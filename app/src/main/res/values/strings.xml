@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Interoperability</string>
+    <string name="text_welcome">Welcome</string>
+    <string name="text_introduction">Introduction</string>
+    <string name="text_lorem">It is a long established fact that a reader will be distracted
+        by the readable content of a page when looking at its layout.</string>
+    <string name="text_error">ERROR</string>
+    <string name="text_error_text">Invalid Username or Password</string>
+    <string name="text_action_search">Search</string>
+    <string name="text_action_settings">Settings</string>
+    <string name="text_action_logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
